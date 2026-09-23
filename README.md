@@ -26,6 +26,5 @@
 - 🌐 Website: **[davincideluxe.fr](https://www.davincideluxe.fr)**
 - ☁️ Cloud Tuning: [upload a file](https://www.davincideluxe.fr/profile)
 - 📋 Supported ECUs: [full list](https://www.davincideluxe.fr/cloud-tuning-supported-ecus.html) · [PDF](https://www.davincideluxe.fr/DaVinci_Deluxe_Supported_List.pdf)
-- 🎬 Demo: [YouTube](https://www.youtube.com/watch?v=x51fxDm_Z8E)
 
 <sub>ECU remapping · chiptuning · DPF EGR AdBlue delete · Stage 1/2/3 · automatic checksum correction · automotive tuning software.</sub>

@@ -2,8 +2,16 @@
   "family": "Bosch MED9",
   "slug": "bosch-med9",
   "platform": "DaVinci Deluxe Cloud Edition v1.0.44",
-  "official_url": "https://www.davincideluxe.fr/bosch-med9-tuning-software",
-  "file_checker_url": "https://www.davincideluxe.fr/#check-file",
+  "official_urls": [
+    "https://www.davincideluxe.fr/bosch-med9-tuning-software",
+    "https://www.davincideluxe.org/bosch-med9-tuning-software",
+    "https://www.davincideluxe.app/bosch-med9-tuning-software",
+    "https://www.davincideluxe.software/bosch-med9-tuning-software",
+    "https://www.davincideluxe.es/bosch-med9-tuning-software",
+    "https://www.davincideluxe.de/bosch-med9-tuning-software",
+    "https://www.davincideluxe.it/bosch-med9-tuning-software",
+    "https://www.aesoftech.eu/bosch-med9-tuning-software"
+  ],
   "matched_variants_count": 119,
   "brands": {
     "BMW": [

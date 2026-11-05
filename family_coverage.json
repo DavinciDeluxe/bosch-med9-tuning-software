@@ -1,0 +1,171 @@
+{
+  "family": "Bosch MED9",
+  "slug": "bosch-med9",
+  "platform": "DaVinci Deluxe Cloud Edition v1.0.44",
+  "official_url": "https://www.davincideluxe.fr/bosch-med9-tuning-software",
+  "file_checker_url": "https://www.davincideluxe.fr/#check-file",
+  "matched_variants_count": 119,
+  "brands": {
+    "BMW": [
+      "MED9",
+      "MED9.1.5"
+    ],
+    "MINI": [
+      "MED9",
+      "MED9.1.5"
+    ],
+    "FORD": [
+      "MED9"
+    ],
+    "MERCEDES-BENZ": [
+      "MED9.7"
+    ],
+    "SMART": [
+      "MED9.7"
+    ],
+    "MAYBACH": [
+      "MED9.7"
+    ],
+    "OPEL": [
+      "MED9",
+      "MED9.5",
+      "MED9.6.1"
+    ],
+    "CHEVROLET": [
+      "MED9",
+      "MED9.6.1"
+    ],
+    "VAUXHALL": [
+      "MED9",
+      "MED9.6.1"
+    ],
+    "PEUGEOT": [
+      "MED9",
+      "MED9.1"
+    ],
+    "CITROËN": [
+      "MED9"
+    ],
+    "DS": [
+      "MED9"
+    ],
+    "VOLKSWAGEN": [
+      "MED9",
+      "MED9.1",
+      "MED9.1.1",
+      "MED9.1.2",
+      "MED9.1.3",
+      "MED9.1.4",
+      "MED9.1.5",
+      "MED9.5",
+      "MED9.5.10",
+      "MED9.6",
+      "MED9.6.1",
+      "MED9.7"
+    ],
+    "AUDI": [
+      "MED9",
+      "MED9.1",
+      "MED9.1.1",
+      "MED9.1.2",
+      "MED9.1.3",
+      "MED9.1.4",
+      "MED9.1.5",
+      "MED9.1_CAN",
+      "MED9.5",
+      "MED9.5.1",
+      "MED9.5.10",
+      "MED9.6",
+      "MED9.6.1",
+      "MED9.7"
+    ],
+    "SEAT": [
+      "MED9",
+      "MED9.1",
+      "MED9.1.1",
+      "MED9.1.2",
+      "MED9.1.3",
+      "MED9.1.4",
+      "MED9.1.5",
+      "MED9.5",
+      "MED9.5.10",
+      "MED9.6",
+      "MED9.6.1",
+      "MED9.7"
+    ],
+    "SKODA": [
+      "MED9",
+      "MED9.1",
+      "MED9.1.1",
+      "MED9.1.2",
+      "MED9.1.3",
+      "MED9.1.4",
+      "MED9.1.5",
+      "MED9.5",
+      "MED9.5.10",
+      "MED9.6",
+      "MED9.6.1",
+      "MED9.7"
+    ],
+    "CUPRA": [
+      "MED9",
+      "MED9.1",
+      "MED9.1.1",
+      "MED9.1.2",
+      "MED9.1.3",
+      "MED9.1.4",
+      "MED9.1.5",
+      "MED9.5",
+      "MED9.5.10",
+      "MED9.6",
+      "MED9.6.1",
+      "MED9.7"
+    ],
+    "PORSCHE": [
+      "MED9",
+      "MED9.1",
+      "MED9.1.1",
+      "MED9.1.2",
+      "MED9.1.3",
+      "MED9.1.4",
+      "MED9.1.5",
+      "MED9.5",
+      "MED9.5.10",
+      "MED9.6",
+      "MED9.6.1",
+      "MED9.7"
+    ],
+    "LAMBORGHINI": [
+      "MED9",
+      "MED9.1",
+      "MED9.1.1",
+      "MED9.1.2",
+      "MED9.1.3",
+      "MED9.1.4",
+      "MED9.1.5",
+      "MED9.5",
+      "MED9.5.10",
+      "MED9.6",
+      "MED9.6.1",
+      "MED9.7"
+    ],
+    "BENTLEY": [
+      "MED9",
+      "MED9.1",
+      "MED9.1.1",
+      "MED9.1.2",
+      "MED9.1.3",
+      "MED9.1.4",
+      "MED9.1.5",
+      "MED9.5",
+      "MED9.5.10",
+      "MED9.6",
+      "MED9.6.1",
+      "MED9.7"
+    ],
+    "FERRARI": [
+      "MED9.6",
+      "MED9.6.1"
+    ]
+  }
+}

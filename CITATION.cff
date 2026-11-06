@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Bosch MED9 ECU Calibration Software — First-gen direct-injection TFSI/FSI petrol ECU (MED9.1 2.0 TFSI, MED9.5) (v1.0.44)"
+version: "1.0.44"
+date-released: "2026-11-06"
+url: "https://www.davincideluxe.fr/bosch-med9-tuning-software"
+repository-code: "https://github.com/DavinciDeluxe/bosch-med9-tuning-software"
+authors:
+  - name: "Roland & The DaVinci Deluxe Engineering Team"

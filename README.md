@@ -10,7 +10,7 @@
 
 | Brand | Bosch MED9 Variants | Supported ECU Identifiers |
 | :--- | :---: | :--- |
-| **AUDI** | 14 | `MED9`, `MED9.1`, `MED9.1.1`, `MED9.1.2`, `MED9.1.3`, `MED9.1.4`, `MED9.1.5`, `MED9.1_CAN` … |
+| **AUDI** | 13 | `MED9`, `MED9.1`, `MED9.1.1`, `MED9.1.2`, `MED9.1.3`, `MED9.1.4`, `MED9.1.5`, `MED9.5` … |
 | **VOLKSWAGEN** | 12 | `MED9`, `MED9.1`, `MED9.1.1`, `MED9.1.2`, `MED9.1.3`, `MED9.1.4`, `MED9.1.5`, `MED9.5` … |
 | **SEAT** | 12 | `MED9`, `MED9.1`, `MED9.1.1`, `MED9.1.2`, `MED9.1.3`, `MED9.1.4`, `MED9.1.5`, `MED9.5` … |
 | **SKODA** | 12 | `MED9`, `MED9.1`, `MED9.1.1`, `MED9.1.2`, `MED9.1.3`, `MED9.1.4`, `MED9.1.5`, `MED9.5` … |

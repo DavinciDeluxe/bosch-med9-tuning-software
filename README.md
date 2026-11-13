@@ -10,14 +10,14 @@
 
 | Brand | Bosch MED9 Variants | Supported ECU Identifiers |
 | :--- | :---: | :--- |
+| **VOLKSWAGEN** | 13 | `MED9`, `MED9.1`, `MED9.1.1`, `MED9.1.2`, `MED9.1.3`, `MED9.1.4`, `MED9.1.5`, `MED9.5` … |
 | **AUDI** | 13 | `MED9`, `MED9.1`, `MED9.1.1`, `MED9.1.2`, `MED9.1.3`, `MED9.1.4`, `MED9.1.5`, `MED9.5` … |
-| **VOLKSWAGEN** | 12 | `MED9`, `MED9.1`, `MED9.1.1`, `MED9.1.2`, `MED9.1.3`, `MED9.1.4`, `MED9.1.5`, `MED9.5` … |
-| **SEAT** | 12 | `MED9`, `MED9.1`, `MED9.1.1`, `MED9.1.2`, `MED9.1.3`, `MED9.1.4`, `MED9.1.5`, `MED9.5` … |
-| **SKODA** | 12 | `MED9`, `MED9.1`, `MED9.1.1`, `MED9.1.2`, `MED9.1.3`, `MED9.1.4`, `MED9.1.5`, `MED9.5` … |
-| **CUPRA** | 12 | `MED9`, `MED9.1`, `MED9.1.1`, `MED9.1.2`, `MED9.1.3`, `MED9.1.4`, `MED9.1.5`, `MED9.5` … |
-| **PORSCHE** | 12 | `MED9`, `MED9.1`, `MED9.1.1`, `MED9.1.2`, `MED9.1.3`, `MED9.1.4`, `MED9.1.5`, `MED9.5` … |
-| **LAMBORGHINI** | 12 | `MED9`, `MED9.1`, `MED9.1.1`, `MED9.1.2`, `MED9.1.3`, `MED9.1.4`, `MED9.1.5`, `MED9.5` … |
-| **BENTLEY** | 12 | `MED9`, `MED9.1`, `MED9.1.1`, `MED9.1.2`, `MED9.1.3`, `MED9.1.4`, `MED9.1.5`, `MED9.5` … |
+| **SEAT** | 13 | `MED9`, `MED9.1`, `MED9.1.1`, `MED9.1.2`, `MED9.1.3`, `MED9.1.4`, `MED9.1.5`, `MED9.5` … |
+| **SKODA** | 13 | `MED9`, `MED9.1`, `MED9.1.1`, `MED9.1.2`, `MED9.1.3`, `MED9.1.4`, `MED9.1.5`, `MED9.5` … |
+| **CUPRA** | 13 | `MED9`, `MED9.1`, `MED9.1.1`, `MED9.1.2`, `MED9.1.3`, `MED9.1.4`, `MED9.1.5`, `MED9.5` … |
+| **PORSCHE** | 13 | `MED9`, `MED9.1`, `MED9.1.1`, `MED9.1.2`, `MED9.1.3`, `MED9.1.4`, `MED9.1.5`, `MED9.5` … |
+| **LAMBORGHINI** | 13 | `MED9`, `MED9.1`, `MED9.1.1`, `MED9.1.2`, `MED9.1.3`, `MED9.1.4`, `MED9.1.5`, `MED9.5` … |
+| **BENTLEY** | 13 | `MED9`, `MED9.1`, `MED9.1.1`, `MED9.1.2`, `MED9.1.3`, `MED9.1.4`, `MED9.1.5`, `MED9.5` … |
 | **OPEL** | 3 | `MED9`, `MED9.5`, `MED9.6.1` |
 | **BMW** | 2 | `MED9`, `MED9.1.5` |
 | **MINI** | 2 | `MED9`, `MED9.1.5` |
